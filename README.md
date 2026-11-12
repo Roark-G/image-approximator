@@ -25,9 +25,9 @@ pip install -r requirements.txt
 python3 main.py TARGET [--n-patches N] [--patches DIR] [--start-mode MODE] [--verbose]
 ```
 
-For example, to collage `vinicunca.jpg` with 300 patches from the basic palette:
+For example, to collage `tropical_fish.jpg` with 300 patches from the basic palette:
 ```bash
-python3 main.py demos/target_images/vinicunca.jpg --n-patches 300 --patches patch_palettes/basic_palette --start-mode average --verbose
+python3 main.py demos/target_images/tropical_fish.jpg --n-patches 300 --patches patch_palettes/basic_palette --start-mode average --verbose
 ```
 
 | Argument | Required | Default | Description |
