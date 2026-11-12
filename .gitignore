@@ -1,0 +1,8 @@
+__pycache__/
+testing.ipynb
+testing2.ipynb
+my_demos/
+test_site/
+.DS_Store
+patch_palettes/non_poly_patches/
+patch_palettes/polygon_patches/
